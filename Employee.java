@@ -57,9 +57,6 @@ protected  void finalize() throws Throwable{
 	 System.out.println("From Finalize Method");
 }
 
-public void printStackTrace() {
-	// TODO Auto-generated method stub
-	
-}
+
 	 
 }
